@@ -33,7 +33,7 @@ brew list python
 to get the location of python folder. In most cases, the default installation directory of homebrew is /usr/local/Cellar.
 Open the folder python/bin and check if there is a exec named pip.
 
-(picture)
+![Alt text](https://github.com/zhaoyh00/UWP/blob/master/img/img1.png)
 
 In this picture, you can see that I have pip3.7 in my folder.
 
