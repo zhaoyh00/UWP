@@ -88,11 +88,12 @@ After going to the download pages, you should select the version that fits your 
 ### Setup Virutal Box
 After clicking "Next" for serval times, we can easily finish the installation. After double-clicking the Virtual Box, we can see a window called VirtualBox Manager like this:
 
-(picture)
+![Alt text](https://github.com/zhaoyh00/UWP/blob/master/img/img5.png)
 
 
 We can click "New" to create an empty virtual machine. 
 There are several important points to create a virtual machine.
+![Alt text](https://github.com/zhaoyh00/UWP/blob/master/img/img2.png)
 1. Give an appropriate name for your virtual machine. It will be better if you named your virtual machine based on the information related to it. For example, the type of it (it is a Windows virtual machine, OS virtual machine, or a Linux virtual machine), the date it has been created.etc.
 
 2. Also need to change the Machine Folder of your virtual. As students in computer science, we all know the outcome of always stored things in the same default folder. 
@@ -102,8 +103,11 @@ There are several important points to create a virtual machine.
 4. Select the Memory(RAM) that Virtual Machine will use for every time it starts. However, you should choose the RAM setting carefully. If you set a really large RAM for you Virtual Machine, your computer might stop running because there is no more memory for other software to open.
 
 5. To specify a Virtual Hard Disk for your VM. In most of the cases, the developers always select "Use an existing virtual hard disk file" in order to form a specific developing environment. For example, when the developer wants to use Ubuntu to develop their software for Linux, they would download the hard disk of Ubuntu and load it into the Virtual Machine. Using Ubuntu hard disk to form a Linux developing system is much convenient than buying a computer with a built-in Linux system.
+![Alt text](https://github.com/zhaoyh00/UWP/blob/master/img/img3.png)
 
 6. After giving it file location and size, we can finish building our virtual machine and use it.
+
+![Alt text](https://github.com/zhaoyh00/UWP/blob/master/img/img4.png)
 
 
 ### Tips for Running Your Virtual Machine
